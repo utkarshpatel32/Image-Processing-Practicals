@@ -6,8 +6,8 @@ This repository contains two Jupyter Notebook practical files covering fundament
 
 | Notebook | Coverage | Main focus |
 |---|---|---|
-| `Practical_File_1_Lab1_and_2(3).ipynb` | Lab 1 & Lab 2 | Image reading, properties, colour-space conversion, geometric operations, and image comparison |
-| `Fianal_Lab9_10_Image_Processing_Friend.ipynb` | Lab 9 & Lab 10 | Edge detection, noise analysis, compression, texture/leaf segmentation, enhancement, thresholding, and frequency-domain filtering |
+| `Practical_File_1_Lab1_and_2.ipynb` | Lab 1 & Lab 2 | Image reading, properties, colour-space conversion, geometric operations, and image comparison |
+| `Lab9_10_Image_Processing_ipynb` | Lab 9 & Lab 10 | Edge detection, noise analysis, compression, texture/leaf segmentation, enhancement, thresholding, and frequency-domain filtering |
 
 ## Practical 1 — Image Acquisition and Representation (Lab 1 & 2)
 
